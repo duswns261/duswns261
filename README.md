@@ -111,4 +111,3 @@ object DeveloperPhilosophy {
 ## 🤳 Contact
 
 - Email: `duswns261@naver.com`
-- GitHub: [github.com/duswns261](https://github.com/duswns261)
