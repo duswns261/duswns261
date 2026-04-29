@@ -93,7 +93,6 @@ object DeveloperPhilosophy {
 ## ⭐️ 2026 Focus
 
 - Android 권장 아키텍처를 더 깊게 이해하기
-- Hilt, Domain Layer, 테스트 코드까지 확장하기
 - 프로젝트 README와 문서화를 꾸준히 개선하기
 - 사용자 관점에서 안정적인 앱을 만드는 개발자로 성장하기
 
