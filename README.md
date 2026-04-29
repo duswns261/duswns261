@@ -64,16 +64,7 @@ object DeveloperPhilosophy {
 
 **Tech**: `Kotlin` `Compose` `Room` `MVVM` `Coroutines` `Flow`
 
-### 2) [Kakao-API-Image-Search](https://github.com/duswns261/Kakao-API-Image-Search)
-> **카카오 API 기반 이미지 검색 앱**
-
-- Retrofit2를 활용한 네트워크 통신과 Glide 기반 이미지 로딩을 실습한 프로젝트입니다.
-- `ViewPager2`, `TabLayout`, `RecyclerView`를 사용해 검색/보관함 흐름을 구성했습니다.
-- API Key를 분리하여 관리하며, **기능 구현뿐 아니라 보안과 구조 개선 포인트**도 함께 정리했습니다.
-
-**Tech**: `Kotlin` `Retrofit2` `Glide` `RecyclerView` `ViewPager2`
-
-### 3) [Hilt-Practice-with-AI](https://github.com/duswns261/Hilt-Practice-with-AI)
+### 2) [Hilt-Practice-with-AI](https://github.com/duswns261/Hilt-Practice-with-AI)
 > **Hilt 학습 및 비교 실험 저장소**
 
 - Hilt 학습 과정을 여러 방식으로 비교하며 기록하는 저장소입니다.
