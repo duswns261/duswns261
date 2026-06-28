@@ -95,6 +95,7 @@ object DeveloperPhilosophy {
 - Android 권장 아키텍처를 더 깊게 이해하기
 - 프로젝트 README와 문서화를 꾸준히 개선하기
 - 사용자 관점에서 안정적인 앱을 만드는 개발자로 성장하기
+- AI Agent Skills 꾸준히 발전 시키기
 
 ---
 
