@@ -22,36 +22,6 @@ object DeveloperPhilosophy {
 
 ---
 
-## 🛠️ Tech Stack
-
-### Android
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-### Architecture & Jetpack
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![ViewModel](https://img.shields.io/badge/ViewModel-1565C0?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-43A047?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-E53935?style=for-the-badge&logo=google&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
-![Coroutine](https://img.shields.io/badge/Coroutine-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow-0097A7?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Database & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Previous Experience (Industrial S/W)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
----
-
 ## 📱 Featured Projects
 
 ### 1) [InOutManager](https://github.com/duswns261/InOutManager)
