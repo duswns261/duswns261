@@ -34,7 +34,7 @@ object DeveloperPhilosophy {
 
 **Tech**: `Kotlin` `Compose` `Room` `MVVM` `Coroutines` `Flow`
 
-### 2) [android-jni-secure-storage-poc](https://github.com/duswns261/android-jni-secure-storage-poc)
+### 2) [JNI Secure Storage PoC](https://github.com/duswns261/android-jni-secure-storage-poc)
 > **JNI / Native 보안 저장소 PoC 기술 포트폴리오**
 
 - Kotlin 계층과 Native 계층 사이의 데이터 전달, `ByteArray` marshalling, native exception propagation을 검증한 Android PoC입니다.
