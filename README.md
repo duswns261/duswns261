@@ -54,17 +54,7 @@ object DeveloperPhilosophy {
 
 ## 📱 Featured Projects
 
-### 1) [android-jni-secure-storage-poc](https://github.com/duswns261/android-jni-secure-storage-poc)
-> **JNI / Native 보안 저장소 PoC 기술 포트폴리오**
-
-- Kotlin 계층과 Native 계층 사이의 데이터 전달, `ByteArray` marshalling, native exception propagation을 검증한 Android PoC입니다.
-- Android NDK, CMake, native library loading, ABI packaging 흐름을 직접 구성하며 JNI 경계를 설명할 수 있도록 정리했습니다.
-- tiny-AES-c 기반 AES-128 CTR encrypt/decrypt round-trip을 구현하고, demo key/IV의 한계와 보안 범위를 README에 명확히 분리했습니다.
-- DPS/CPS 저장소 컨텍스트 차이를 확장 예정 항목으로 두어, Android 보안 저장소 관점의 학습 방향을 드러냅니다.
-
-**Tech**: `Kotlin` `JNI` `Android NDK` `CMake` `C++` `AES-128 CTR`
-
-### 2) [InOutManager](https://github.com/duswns261/InOutManager)
+### 1) [InOutManager](https://github.com/duswns261/InOutManager)
 > **Compose 기반 재고 관리 앱**
 
 - Jetpack Compose, Room, Coroutines, Flow 기반으로 구현한 안드로이드 앱
@@ -73,6 +63,16 @@ object DeveloperPhilosophy {
 - UML 및 아키텍처 문서를 함께 정리하며, **코드뿐 아니라 구조를 설명할 수 있는 프로젝트**로 발전시키고 있습니다.
 
 **Tech**: `Kotlin` `Compose` `Room` `MVVM` `Coroutines` `Flow`
+
+### 2) [android-jni-secure-storage-poc](https://github.com/duswns261/android-jni-secure-storage-poc)
+> **JNI / Native 보안 저장소 PoC 기술 포트폴리오**
+
+- Kotlin 계층과 Native 계층 사이의 데이터 전달, `ByteArray` marshalling, native exception propagation을 검증한 Android PoC입니다.
+- Android NDK, CMake, native library loading, ABI packaging 흐름을 직접 구성하며 JNI 경계를 설명할 수 있도록 정리했습니다.
+- tiny-AES-c 기반 AES-128 CTR encrypt/decrypt round-trip을 구현하고, demo key/IV의 한계와 보안 범위를 README에 명확히 분리했습니다.
+- DPS/CPS 저장소 컨텍스트 차이를 확장 예정 항목으로 두어, Android 보안 저장소 관점의 학습 방향을 드러냅니다.
+
+**Tech**: `Kotlin` `JNI` `Android NDK` `CMake` `C++` `AES-128 CTR`
 
 ---
 
