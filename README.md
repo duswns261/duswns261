@@ -44,6 +44,16 @@ object DeveloperPhilosophy {
 
 **Tech**: `Kotlin` `JNI` `Android NDK` `CMake` `C++` `AES-128 CTR`
 
+### 3) [Software Engineering Case Studies](https://github.com/duswns261/software-engineering-case-studies)
+> **설비 소프트웨어 문제 해결 경험을 정리한 기술 포트폴리오**
+
+- 실제 회사 코드나 고객사 정보를 공개하지 않고, 이전 설비 소프트웨어 경력의 문제 해결 과정을 Case Study 형식으로 정리했습니다.
+- Cycle Time 개선, 수율 이슈 원인 분석, 설비 상태 UI 개선, 로그/데이터 저장 구조, 현장 이슈 안정화 경험을 문서화했습니다.
+- 상태 추적, 데이터 검증, 로그 기반 디버깅, 재현 조건 정리 등 Android 개발과 연결되는 엔지니어링 역량을 중심으로 구성했습니다.
+- 보안상 공개할 수 없는 내부 정보는 일반화하고, 문제 정의부터 의사결정, 결과, Android Engineering Relevance까지 일관된 구조로 정리했습니다.
+
+**Tech**: `Case Study` `Debugging` `Data Validation` `State Design` `Log Analysis` `Documentation`
+
 ---
 
 ## 🧠 What I Bring
