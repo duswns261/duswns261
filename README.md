@@ -1,4 +1,4 @@
-# 안녕하세요, 하드웨어 제어 SW 5년 | Android 앱 개발 | 소프트웨어 엔지니어 정연준입니다
+# 하드웨어 제어 SW 5년 | Android 앱 개발 | 소프트웨어 엔지니어 정연준입니다
 
 ```kotlin
 object DeveloperPhilosophy {
