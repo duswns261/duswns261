@@ -1,4 +1,4 @@
-# 안녕하세요, Android Developer 정연준입니다
+# 안녕하세요, 하드웨어 제어 SW 5년 | Android 앱 개발 | 소프트웨어 엔지니어 정연준입니다
 
 ```kotlin
 object DeveloperPhilosophy {
@@ -34,17 +34,7 @@ object DeveloperPhilosophy {
 
 **Tech**: `Kotlin` `Compose` `Room` `MVVM` `Coroutines` `Flow`
 
-### 2) [JNI Secure Storage PoC](https://github.com/duswns261/android-jni-secure-storage-poc)
-> **JNI / Native 보안 저장소 PoC 기술 포트폴리오**
-
-- Kotlin 계층과 Native 계층 사이의 데이터 전달, `ByteArray` marshalling, native exception propagation을 검증한 Android PoC입니다.
-- Android NDK, CMake, native library loading, ABI packaging 흐름을 직접 구성하며 JNI 경계를 설명할 수 있도록 정리했습니다.
-- tiny-AES-c 기반 AES-128 CTR encrypt/decrypt round-trip을 구현하고, demo key/IV의 한계와 보안 범위를 README에 명확히 분리했습니다.
-- DPS/CPS 저장소 컨텍스트 차이를 확장 예정 항목으로 두어, Android 보안 저장소 관점의 학습 방향을 드러냅니다.
-
-**Tech**: `Kotlin` `JNI` `Android NDK` `CMake` `C++` `AES-128 CTR`
-
-### 3) [Software Engineering Case Studies](https://github.com/duswns261/software-engineering-case-studies)
+### 2) [Software Engineering Case Studies](https://github.com/duswns261/software-engineering-case-studies)
 > **설비 소프트웨어 문제 해결 경험을 정리한 기술 포트폴리오**
 
 - 실제 회사 코드나 고객사 정보를 공개하지 않고, 이전 설비 소프트웨어 경력의 문제 해결 과정을 Case Study 형식으로 정리했습니다.
